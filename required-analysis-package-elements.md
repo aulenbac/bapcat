@@ -23,12 +23,12 @@ Identify and document the people and communities that have a stake in the develo
 
 Where possible, each analysis package will be associated with a real person that represents a recognized or definable community. As discussed in the bst.rst document (<https://github.com/usgs-bis/nbmdocs/blob/master/docs/baps.rst> (retrieved 2019-12-10), we call this named person the Actual Stakeholder.
 
-There will be times when we are unable to identify an Actual Stakholder or times when that person does not want to be tagged as such. In these  cases, identify and, to the extent possble, document an Abstract Stakeholder or a persona that may incorporate the analytical results into their decision making process.
+There will be times when we are unable to identify an Actual Stakeholder or times when that person does not want to be tagged as such. In these  cases, identify and, to the extent possble, document an Abstract Stakeholder or a persona that may incorporate the analytical results into their decision making process.
 
 *Required provenance values:*
 
 #### Inputs
-Document all inputs. Names, links, security constraints, spatial extent and resolution, temporal extent and resolution, example code to access are all important to capture. Documenting these early on makes it easier for others to jump in and help debug, capture the provenance and, later in the process, are critical to the developers operationalizing the scientific code. A clear enumeration of the inputs helps users assess the applicability of the package to their analytical needs.
+Document all inputs. Dataset names, permanent links to the dataset(s), which variables were used, usage and/or security constraints, spatial extent and resolution, temporal extent and resolution, and the working code to used to access and use the inputs access are all important to capture. Documenting these early on makes it easier for others to jump in and help debug, capture the provenance and, later in the process, are critical to the developers operationalizing the scientific code. A clear enumeration of the inputs helps users assess the applicability of the package to their analytical needs.
 
 *Required provenance values:*
 
